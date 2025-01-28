@@ -1,0 +1,7 @@
+streamlit
+langchain
+chromadb
+requests
+sentence-transformers
+beautifulsoup4
+langchain-community
